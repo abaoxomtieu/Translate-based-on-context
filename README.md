@@ -1,6 +1,6 @@
 # Translate-based-on-context
-Tech stacks:  FastAPI, Langchain, MongoDB, Reactjs, Ant design
-You can use the [Ban Dictionary app](https://ban-dict.vercel.app/) for more information.
+Tech stacks:  FastAPI, Langchain, GenAI, MongoDB, Reactjs(Vite, TypeScript, Tailwind), Ant design.
+You can use the [Ban Dictionary app](https://bandict.vercel.app/) for more information.
 
 # Overview
 
