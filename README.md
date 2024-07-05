@@ -1,7 +1,7 @@
 # Translate-based-on-context
 Tech stacks:  FastAPI, Langchain, GenAI, MongoDB, Reactjs(Vite, TypeScript, Tailwind), Ant design.
 You can use the [Ban Dictionary app](https://bandict.vercel.app/) for more information.
-# Visit the link to use the latest version
+# Visit the link to use the latest version [BANDic+](https://dichtailieu.vercel.app/) 
 # Overview
 
 ![0624-ezgif com-video-to-gif-converter](https://github.com/abaoxomtieu/Translate-based-on-context/assets/171532498/dd547ce9-8c67-45c6-b7ed-e675099b677f)
